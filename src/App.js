@@ -4,15 +4,15 @@ function App() {
   return (
     <div
       style={{
-        color: "black",
         display: "flex",
         flexDirection: "column",
         alignItems: "center",
         justifyContent: "center",
-        fontSize: "50px",
+        padding: "25px",
       }}
     >
-      <div>No Probllama Goods Coming Soon!</div>
+      <h1>No Probllama Goods</h1>
+      <h2>Coming Soon...</h2>
       <div>
         <img src={importImg} alt="import"></img>
       </div>
