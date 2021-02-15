@@ -7,7 +7,7 @@ import StarWars from "./StarWars";
 
 ReactDOM.render(
   <React.StrictMode>
-    <StarWars />
+    <App />
   </React.StrictMode>,
   document.getElementById("root")
 );
