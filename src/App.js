@@ -12,7 +12,7 @@ function App() {
       }}
     >
       <h1>No Probllama Goods</h1>
-      <h2>Coming Soon...</h2>
+      <h2>Coming Soon to a store near you...</h2>
       <div>
         <img src={importImg} alt="import"></img>
       </div>
